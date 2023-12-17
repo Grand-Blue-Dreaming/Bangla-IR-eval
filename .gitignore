@@ -1,8 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+Models/Anwesha/__pycache__/
 *.py[cod]
 *$py.class
 
+Models/Anwesha/Lemmatization/Lemmatized_Dataset_Title_emphasis/
+Models/Anwesha/Lemmatization/Wikipedia_Concept_Dataset_lemmatized/
+Models/Anwesha/indic-trans
 # C extensions
 *.so
 
