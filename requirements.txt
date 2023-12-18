@@ -8,6 +8,6 @@ bnlp_toolkit
 weighted_levenshtein
 Cython
 scipy
-indictrans @ git+git://github.com/libindic/indic-trans.git
+# indictrans @ git+git://github.com/libindic/indic-trans.git
 indicnlp
 indic-nlp-library

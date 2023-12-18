@@ -7,6 +7,8 @@ Models/Anwesha/__pycache__/
 Models/Anwesha/Lemmatization/Lemmatized_Dataset_Title_emphasis/
 Models/Anwesha/Lemmatization/Wikipedia_Concept_Dataset_lemmatized/
 Models/Anwesha/indic-trans
+Models/Anwesha/SavedModels/*
+
 # C extensions
 *.so
 
