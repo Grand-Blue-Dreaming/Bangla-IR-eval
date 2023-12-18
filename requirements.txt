@@ -11,3 +11,4 @@ scipy
 # indictrans @ git+git://github.com/libindic/indic-trans.git
 indicnlp
 indic-nlp-library
+ranx

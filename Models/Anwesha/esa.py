@@ -235,7 +235,7 @@ def esa(tr_tfidf_matrix, vectorizer, c_vectorizer, c_tfidf_matrix, doc_concept_m
                         # explainable_terms list.
                         explainable_terms.append(tuple(word_rel_score[word_index]))
             # Contains a list of all the explainable terms in all the documents with respect to a query at index q.
-            print("Explainable Terms: ",explainable_terms)
+            # print("Explainable Terms: ",explainable_terms)
             per_query_explainability_list.append(explainable_terms)
         explainability_list.append(per_query_explainability_list)
 
