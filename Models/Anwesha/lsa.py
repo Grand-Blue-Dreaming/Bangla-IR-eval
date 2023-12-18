@@ -40,7 +40,7 @@ def set_up_LSA(docs, rank, save_model=False, lemmatiser=False):
             joblib.dump(svd_transformer, os.path.join('SavedModels', 'svd_transformer.pkl'))
             joblib.dump(svd_model, os.path.join('SavedModels', 'svd_model.pkl'))
         print("LSA model is saved in SavedModels directory.")
-        exit()
+        # exit()
     return vectorizer, svd_transformer, svd_model,dvecs
 
 
